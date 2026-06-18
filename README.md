@@ -1,10 +1,9 @@
-# tobylason.github.io
-Co-owner and managing director of Disability Insurance Agency. Resources on disability insurance for physicians, dentists, CRNAs, and high-income professionals.
-[Disability Insurance Agency](https://disabilityinsurance.io/)
+# Toby Lason
 
-## Resources
+Co-owner and Managing Partner at [Seaworthy Insurance](https://seaworthy.io), an independent brokerage specializing in disability and income protection for high-income professionals: physicians, dentists, CRNAs, attorneys, and executives.
 
-- [Get a quote for disability insurance](https://disabilityinsurance.io/quote/)
-- [Physician disability insurance guide](https://disabilityinsurance.io/specialties/#physicians-surgeons)
-- [CRNA disability insurance](https://disabilityinsurance.io/specialties/crnas/)
-- [Dentist disability insurance](https://disabilityinsurance.io/specialties/dentists/)
+I have spent more than 20 years in disability insurance. At Seaworthy I focus on strategy, operations, and the technology behind how the firm runs.
+
+- Website: https://seaworthy.io
+- Writing: https://seaworthy.io/insights/
+- LinkedIn: https://www.linkedin.com/in/tobylason/
